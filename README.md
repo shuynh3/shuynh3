@@ -2,6 +2,6 @@
 
 ### Software Engineer
 
-- 📫 Email me at: Sonnyhuynh214@gmail.com
+- 📫 Email me at: sonny.huynh.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuynh3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
